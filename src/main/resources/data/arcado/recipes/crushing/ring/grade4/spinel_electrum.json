@@ -1,0 +1,7 @@
+{
+  "type": "mna:crushing",
+  "tier": 2,
+  "input": "arcado:ring_spinel_4_electrum",
+  "output": "arcado:jewel_spinel",
+  "output_quantity": 3
+}

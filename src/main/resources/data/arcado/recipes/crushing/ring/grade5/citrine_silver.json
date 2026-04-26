@@ -1,0 +1,7 @@
+{
+  "type": "mna:crushing",
+  "tier": 2,
+  "input": "arcado:ring_citrine_5_silver",
+  "output": "arcado:jewel_citrine",
+  "output_quantity": 4
+}

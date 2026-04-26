@@ -1,0 +1,7 @@
+{
+  "type": "mna:crushing",
+  "tier": 2,
+  "input": "arcado:ring_tourmaline_4_electrum",
+  "output": "arcado:jewel_tourmaline",
+  "output_quantity": 3
+}
