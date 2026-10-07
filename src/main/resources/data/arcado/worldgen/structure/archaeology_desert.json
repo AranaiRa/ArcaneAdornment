@@ -4,7 +4,7 @@
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
-  "start_pool": "arcado:desert_root",
+  "start_pool": "arcado:ruins/desert/desert_root",
   "size": 1,
   "start_height": {
     "absolute": -2
