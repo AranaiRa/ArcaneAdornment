@@ -1,0 +1,23 @@
+{
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "arcado:ruins/snow/road_straight",
+        "processors": "arcado:snow_ruins"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "arcado:ruins/snow/road_t",
+        "processors": "arcado:snow_ruins"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}
