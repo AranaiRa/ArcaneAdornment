@@ -1,0 +1,95 @@
+{
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin1",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin2",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin3",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin4",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin5",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin6",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin7",
+        "processors": "arcado:snow_ruins_large"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin8",
+        "processors": "arcado:snow_ruins"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin9",
+        "processors": "arcado:snow_ruins"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/snow/ruin10",
+        "processors": "arcado:snow_ruins"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

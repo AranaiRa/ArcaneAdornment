@@ -6,8 +6,8 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "arcado:desert_home",
-        "processors": []
+        "location": "arcado:ruins/desert/desert_home",
+        "processors": "arcado:desert_ruins"
       }
     },
     {
@@ -15,8 +15,8 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "arcado:desert_burial",
-        "processors": []
+        "location": "arcado:ruins/desert/desert_burial",
+        "processors": "arcado:desert_ruins"
       }
     },
     {
@@ -24,8 +24,8 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "arcado:desert_worship",
-        "processors": "minecraft:empty"
+        "location": "arcado:ruins/desert/desert_worship",
+        "processors": "arcado:desert_ruins"
       }
     },
     {
@@ -33,8 +33,8 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "arcado:desert_cellar",
-        "processors": "minecraft:empty"
+        "location": "arcado:ruins/desert/desert_cellar",
+        "processors": "arcado:desert_ruins"
       }
     }
   ],

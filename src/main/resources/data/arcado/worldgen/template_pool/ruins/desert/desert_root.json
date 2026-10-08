@@ -1,0 +1,15 @@
+{
+  "name": "arcado:desert_root",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "arcado:ruins/desert/desert_path_right",
+        "processors": "arcado:desert_ruins"
+      }
+    }
+  ],
+  "fallback": "minecraft:empty"
+}
